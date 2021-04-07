@@ -1,10 +1,5 @@
 # Simple machine learning project for recognizing handwritten digits
 
-## Resource
-- example project
-http://myselph.de/neuralNet.html
-- dataset
-https://web.archive.org/web/20210202000636/http://yann.lecun.com/exdb/mnist/
+A simple website for classifying digits. The backend uses
+Flask, the model is trained on the [MNIST](https://web.archive.org/web/20210202000636/http://yann.lecun.com/exdb/mnist/) dataset.
 
-
-http://monkeythinkmonkeycode.com/mnist_decoding/
